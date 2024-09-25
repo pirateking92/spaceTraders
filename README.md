@@ -57,8 +57,10 @@ I made the choice to test drive the application, as previous experience from Mak
 
 As per the instructions, I worked through as much of the quickstart as time allowed, with a focus on creating a robust vertical slice application, that is tested, intuitive to navigate through, and easy on api calls. This resulted in reaching the end of the new game quickstart only, but has also meant that the features added have been tested and I'm confident that it is more robust than without.
 
+I've made the tests with one api key in mind, and so in future refactoring, would like to think how to make it so it can work with multiple.
+
 I used TailwindCSS for styling as I have found this easy to learn, read and implement across a number of projects. If I had more time, I would have liked to do more styling, though having the application work feels to be the most important, rather than its aesthetics at the beginning.
 
 I would have also liked to add some testing with an automation tool such as Cypress, as I have played around with these before and would have liked to improve my skills with an automation tool, simulate a user interaction, and also because it was quite fun and satisfying to see the program go through a set of actions.
 
-Thanks for taking the time to 
+Thanks for taking the time to go through it! Hope to get to chat more about it.
