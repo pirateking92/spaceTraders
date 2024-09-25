@@ -41,9 +41,9 @@ In order for tests to be successful, a token will need to be added to a .env fil
 
 `VITE_TOKEN="YOUR_TOKEN_HERE"`
 
-(This has been shared)
+(This has been shared by email).
 
-from the main `stqs-main` folder, and then run
+From the main `stqs-main` folder, and then run
 
 `npm test`
 
