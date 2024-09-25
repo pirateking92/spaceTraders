@@ -9,7 +9,8 @@ Hope to speak more about this as it was quite enjoyable to go through! Thanks ve
 
 ## Known Issues
 
-- navbar doesn't persist to viewlocation on first render. renders when navigating back to the page
+- Navbar doesn't persist to viewlocation on first render. renders when navigating back to the page
+- Tests will work with one api key given the uniqueness of each request. API key will have been shared, but tests should be changed later on to handle this
 
 ## Table of Contents
 
@@ -35,6 +36,12 @@ Make sure that the following are installed for this project:
 - `npm run dev` and navigate to <http://localhost:5173/> in your preferred browser
 
 ## Tests
+
+In order for tests to be successful, a token will need to be added to a .env file in this format:
+
+`VITE_TOKEN="YOUR_TOKEN_HERE"`
+
+(This has been shared)
 
 from the main `stqs-main` folder, and then run
 
