@@ -63,4 +63,4 @@ I used TailwindCSS for styling as I have found this easy to learn, read and impl
 
 I would have also liked to add some testing with an automation tool such as Cypress, as I have played around with these before and would have liked to improve my skills with an automation tool, simulate a user interaction, and also because it was quite fun and satisfying to see the program go through a set of actions.
 
-Thanks for taking the time to go through it! Hope to get to chat more about it.
+Thanks for taking the time to go through it! Hope to get to chat more about it
